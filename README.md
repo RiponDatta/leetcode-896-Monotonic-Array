@@ -2,7 +2,7 @@
 
 ## Java
 ```Java
-public static bool IsMonotonic(int[] A)
+public bool IsMonotonic(int[] A)
 {   
     var monoIncreasing = true;
     var monoDescreasing = true;
@@ -21,7 +21,7 @@ public static bool IsMonotonic(int[] A)
 
 ## C#
 ```C#
-public static bool IsMonotonic(int[] A)
+public bool IsMonotonic(int[] A)
 {   
     var monoIncreasing = true;
     var monoDescreasing = true;
