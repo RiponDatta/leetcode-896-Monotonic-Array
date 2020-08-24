@@ -2,7 +2,7 @@
 
 ## Java
 ```Java
-public bool IsMonotonic(int[] A)
+public boolean isMonotonic(int[] A) {
 {   
     var monoIncreasing = true;
     var monoDescreasing = true;
